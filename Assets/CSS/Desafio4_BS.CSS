@@ -1,0 +1,269 @@
+/* Primero creamos un id para cada elemento de la navbar y de esta forma le cambiamos el color a los solicitados en el Desafio. Use CSS para esto porque el bootstrap lo usamos para una estructura mas predefinida y con CSS arreglamos los detalles. Vamos bien */
+
+#ColorCuppon{
+    color:white;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#ColorHome{
+    color:white;
+}
+
+#ColorFeatures{
+    color:rgba(255, 255, 255, 0.427);
+}
+
+#ColorPricing{
+    color:rgba(255, 255, 255, 0.519);
+}
+
+#ColorDisable{
+    color:rgba(255, 255, 255, 0.211);
+}
+
+/* Hasta aqui, lo unico que hicimos fue arreglar la navbar. Y vamos bien. */  
+
+
+/* Dado que estoy trabajando con id's, las iré agrupando por tema. Primero serán los id de precio: */ 
+
+#Precio1{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio2{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+#Precio3{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio4{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+#Precio5{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio6{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+#Precio7{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio8{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+#Precio9{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio10{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+#Precio11{
+    padding-left: 10rem;
+    font-weight: lighter;
+    font-size: 0.97rem;
+}
+
+#Precio12{
+    font-weight: bold;
+    font-size: 1.105rem;
+    color:rgb(21, 140, 2)
+}
+
+/* Ya que tenemos los precios listos, ahora trabajaremos sobre los titulos. */ 
+
+#Titulo1{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+#Titulo2{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+#Titulo3{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+#Titulo4{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+#Titulo5{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+#Titulo6{
+    font-family: 'Roboto Medium';
+    font-weight: 500;
+    font-size: 1.37rem;
+    font-weight: bold;
+}
+
+/* Luego vienen la descripcion */ 
+
+#Descripcion1{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Descripcion2{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Descripcion3{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Descripcion4{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Descripcion5{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Descripcion6{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+/* Ahora viene la ubicacion */
+
+#Ubicacion1{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Ubicacion2{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Ubicacion3{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Ubicacion4{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Ubicacion5{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+#Ubicacion6{
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+/* Ahora viene el tamaño del icono*/ 
+
+#TamañoIcono1{
+    font-size: 1rem;
+}
+
+#TamañoIcono2{
+    font-size: 1rem;
+}
+
+#TamañoIcono3{
+    font-size: 1rem;
+}
+
+#TamañoIcono4{
+    font-size: 1rem;
+}
+
+#TamañoIcono5{
+    font-size: 1rem;
+}
+
+#TamañoIcono6{
+    font-size: 1rem;
+}
+
+/* Ahora pasamos a la parte de input que es pedirle al usuario algo de informacion. */
+
+#Subtitulo{
+    padding: 2rem;
+    text-align: center;
+    background-color: green;
+    color:white;
+}
+
+#EnviarB{
+    margin: 1rem;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    padding:1rem;
+    border-radius: 20%;
+}
+
+footer h4{
+    text-align: center;
+    padding-top: 2rem;
+    font-weight: bold;
+}
+
+footer p{
+    text-align: center;
+    font-weight: lighter;
+    opacity: 80%;
+}
+
+img{
+    height:270px;
+    width: 360px;
+}
